@@ -1,0 +1,178 @@
+.himurupa{background-color:rgb(47, 125, 125)}
+.mand-2{background-color:rgb(21, 26, 26)}
+.bodhu{background-color:rgb(106, 16, 16)}
+.dreahom{background-color:rgb(253, 198, 143)}
+.bloss{background-color:rgb(29, 33, 98)}
+.birdy{background-color:rgb(183, 205, 112)}
+body {
+    font-family:"Cambria";
+
+}
+
+#d2 {
+    background-color: #BC8F8F;
+    height: 100vh;
+}
+
+#d3 {
+    text-align: center;
+    color: #BC8F8F;
+    background-color: #440303;
+    border: solid rgb(226, 15, 96);
+}
+
+.navii {
+    background-color: rgb(68, 3, 3);
+    top:0;
+    position:sticky;
+    z-index:2;
+    color:aliceblue;
+    font-size: 23px;
+}
+
+.about {
+    background-color: rgb(135, 5, 5);
+    color: pink;
+}
+
+
+.imgaa {
+    border-color: solid #BC8F8F;
+}
+
+#EDUCATION {
+    background-color: aliceblue;
+}
+
+#r1 {
+    color: #870505;
+    text-align: center;
+}
+
+.r2gol {
+    background-color: rgb(135, 5, 5);
+    color: pink;
+    font-size: 25px;
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.r2ghor {
+    background-color: #BC8F8F;
+    color: rgb(135, 5, 5);
+    font-size: 20px;
+    text-align: center;
+    height: 150px;
+    width: 750px;
+}
+
+.r3gol {
+    background-color: rgb(135, 5, 5);
+    color: pink;
+    font-size: 25px;
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.r3ghor {
+    background-color: #BC8F8F;
+    color: rgb(135, 5, 5);
+    font-size: 20px;
+    text-align: center;
+    height: 150px;
+    width: 750px;
+}
+
+.r4gol {
+    background-color: rgb(135, 5, 5);
+    color: pink;
+    font-size: 25px;
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#educard {
+    background-color:#BC8F8F;
+    color: rgb(135, 5, 5);
+    font-size: 20px;
+    text-align: center;
+}
+
+#PROJECT {
+    background-color: rgb(66, 1, 1);
+    width: 98vw;
+}
+
+.projrow1 {
+    color: aliceblue;
+}
+.projim
+{height:90%;width:90%;}
+
+#PORTFOLIO {
+    background-color: aliceblue;
+}
+
+#portt {
+    color: #870505;
+}
+
+.portcard {
+    background-color: aliceblue
+}
+.portim{
+    height:80%;
+    width:80%;
+}
+#CONTACT
+{background-color:rgb(3, 62, 62);
+ color:rgb(213, 225, 255);}
+/*.contghor
+{border-color:rgb(213, 225, 255);} */
+.in1:hover
+{background-color:rgb(213, 225, 255);
+color:blue;}
+.in1
+{background-color:rgb(49, 49, 125);
+color:rgb(213, 225, 255);}
+.butn:hover
+{color:rgb(255, 238, 4);}
+.butn
+{background-color:rgb(88, 31, 31);
+color:rgb(213, 225, 255);
+border:10px #efbd49;
+}
+#FOOTER
+{background-color:pink;
+width:98vw;
+color:rgb(176, 32, 32);}
+/*.icun
+{font-size:50px;
+color:aliceblue;}
+.icnhol{
+   height:70px;
+   width:70px;
+    border-radius:50%;
+    display:inline-block;
+    background-color:rgb(176,32,32);}*/
+    .circle
+    {height:70px;
+    width:70px;
+border-radius:50%;
+background-color:aliceblue;
+display:inline-block;
+text-align:center;
+font-size:50px;
+
+}
+.circle:hover
+{background-color:rgb(104, 175, 190);}
+.school
+{text-align:center}
+
